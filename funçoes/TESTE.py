@@ -1,0 +1,1 @@
+d = int(input('digite'))
